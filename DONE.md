@@ -1,1 +1,1 @@
-# OVO JE ZADATAK ZA POLAGANJE 2. ISHODA 423, 821
+# OVO JE ZADATAK ZA POLAGANJE 2. ISHODA 423, 821    https://github.com/AnteVrban/kolokvij.git
